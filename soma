@@ -16,5 +16,5 @@ inicio
  escreva(" Digite -99 para sair")
  leia(sentinela)
 fimenquanto
- escreval("Saiu do laço!")
+ escreval(" Saiu do laço!")
 fimalgoritmo
